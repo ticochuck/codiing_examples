@@ -1,3 +1,5 @@
+# Determine if a provide string has open and close parenthesis in the correct order
+
 phrase = '(Hello World)',
  
 def open_close_parenthesis(phrase):
