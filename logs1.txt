@@ -5,7 +5,7 @@ errorID 004 latency 1003ms
 errorID 005 latency 987ms
 errorID 006 latency 999ms
 errorID 007 latency 1000ms
-errorID 008 latency 1001ms
+errorID 008 latency 11ms
 errorID 009 latency 1002ms
 errorID 010 latency 750ms
 errorID 011 latency 1006ms
